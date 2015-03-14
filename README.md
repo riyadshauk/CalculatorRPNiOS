@@ -1,0 +1,3 @@
+**RPN Calculator for iOS**
+I coded this Objective-C Reverse Polish Notation calculator in the Summer of 2013, while following along with a course on "iPhone Application Development", CS 193p, offered online from Stanford. A lot of the code was code I typed down (or buttons I created and linked with the code) while watching a few of the online lectures. I modified parts of it, according to some "homework" problems (though I was not taking the course and was just self-learning something I wouldn't learn in school) with hopes of picking up iOS application development some time in the future.
+*See "http://web.stanford.edu/class/cs193p/cgi-bin/drupal/"*
